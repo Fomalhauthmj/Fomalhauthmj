@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning [**6.824: Distributed Systems**](https://pdos.csail.mit.edu/6.824/schedule.html)
+- 📫 How to reach me: [**njtech_hemengjie@qq.com**](mailto:njtech_hemengjie@qq.com)
+
+[![Fomalhauthmj's github stats](https://github-readme-stats.vercel.app/api?username=Fomalhauthmj&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fomalhauthmj&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
